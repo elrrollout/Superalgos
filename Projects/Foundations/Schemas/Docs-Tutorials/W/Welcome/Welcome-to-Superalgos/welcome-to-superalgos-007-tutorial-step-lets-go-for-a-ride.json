@@ -7,12 +7,12 @@
             "project": "Foundations",
             "name": "network"
         },
-        "text": "Before I show you the rest of the menu, let's take a look at another hierarchy: the Network.",
+        "text": "Before I show you the rest of the menu, let's take a look at another hierarchy: the LAN Network.",
         "translations": [
             {
                 "language": "ID",
-                "text": "Sebelum aku memperlihatkan bagian lain dari menu, ayo kebeberapa hirarki lain seperti Network.",
-                "updated": 1614425404268,
+                "text": "Sebelum aku menunjukkan kepada kamu menu lainnya, mari kita lihat hierarki lain: LAN Network.",
+                "updated": 1640568256268,
                 "style": "Definition"
             },
             {
@@ -35,8 +35,8 @@
             },
             {
                 "language": "TR",
-                "text": "Menünün geri kalanını göstermeden önce, başka bir hiyerarşiye bir göz atalım: \"Ağ.\"(Lan Network)",
-                "updated": 1633268337360,
+                "text": "Menünün geri kalanını göstermeden önce, başka bir hiyerarşiye bir göz atalım: \"Ağ.\"   (Lan Network)",
+                "updated": 1639118613577,
                 "style": "Definition"
             },
             {
@@ -56,17 +56,18 @@
                 "text": "Прежде, чем я покажу Вам остальную часть меню, давайте посмотрим на другую иерархию - Network.\n",
                 "updated": 1635510334014
             }
-        ]
+        ],
+        "updated": 1640343243633
     },
     "paragraphs": [
         {
             "style": "Text",
-            "text": "The Network hierarchy is the control room of the system. This is where you control your Data Tasks, Testing Trading Tasks, and Production Trading Tasks.",
+            "text": "The LAN Network hierarchy is the control room of the system. This is where you control your Data Tasks, Testing Trading Tasks, and Production Trading Tasks.",
             "translations": [
                 {
                     "language": "ID",
-                    "text": "Network merupakan hirarki yang mengatur ruang kendali sistem. Di sinilah kamu bisa mengontrol Data Tasks, Testing Trading Tasks, dan Production Trading Tasks.",
-                    "updated": 1614425530127,
+                    "text": "Hirarki LAN Network adalah ruang kontrol sistem. Di sinilah kamu mengontrol  Data Tasks, Testing Trading Tasks, dan Production Trading Tasks kamu.",
+                    "updated": 1640568177240,
                     "style": "Text"
                 },
                 {
@@ -89,8 +90,8 @@
                 },
                 {
                     "language": "TR",
-                    "text": "Ağ hiyerarşisi, sistemin kontrol odasıdır.Burası Veri Görevlerinizi ( Data Task ), Ticaret Görevlerini Test Etme           ( Testing Trading Tasks ) ve Ticaret Görevlerinizi ( Production Trading Tasks ) kontrol ettiğiniz yerdir.",
-                    "updated": 1633268830564,
+                    "text": "Ağ hiyerarşisi, sistemin kontrol odasıdır.Burası Veri Görevlerinizi ( Data Task ), Ticaret Görevlerini Test Etme ( Testing Trading Tasks ) ve Ticaret Görevlerinizi ( Production Trading Tasks ) kontrol ettiğiniz yerdir.",
+                    "updated": 1639118839690,
                     "style": "Text"
                 },
                 {
@@ -110,7 +111,8 @@
                     "text": "Сетевая иерархия - это управленческая комната системы. Именно здесь Вы управляете своими Data Tasks, Testing Trading Tasks, and Production Trading Tasks операциями.",
                     "updated": 1635510485010
                 }
-            ]
+            ],
+            "updated": 1640343257331
         },
         {
             "style": "Callout",
